@@ -1,0 +1,40 @@
+header{
+    background-color:#9ca3ab; 
+}
+
+h1{
+    color:rgb(255, 9, 50);
+}
+
+body{
+    background-color: rgb(198, 220, 220); color: white;
+}
+figcaption{
+    color: white;
+}
+footer{
+    background-color: darkgray;
+}
+footer{
+   font-style: italic; color: red;background-color: honeydew;
+}
+
+
+pre{
+    text-align: center; color: rgb(105, 98, 112);
+}
+footer{
+   color: red;
+}
+p{
+    text-align: center; color: black; font-weight: 600;
+
+}
+
+
+
+
+
+
+
+
